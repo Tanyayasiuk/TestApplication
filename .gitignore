@@ -1,8 +1,5 @@
 # IntelliJ files
-.idea/*
-# Don't ignore code styles
-!.idea/codeStyles/
-!.idea/inspectionProfiles/
+.idea/
 
 # Generated files
 bin/
