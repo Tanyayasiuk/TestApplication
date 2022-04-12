@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="insert_query_hint">Insert query</string>
+</resources>
